@@ -9,7 +9,16 @@
 
 // Add your code right below, good luck!
 
+const firstName = "Carlos"
+const lastName = "Stevenson"
+const birthYear = 1947
+let thisYear = 1965
+const  fullName = firstName + " " + lastName
+let age =  thisYear - birthYear 
 
+greeting = "Hello! My name is " + firstName + " " + lastName +" and I am " +  (thisYear - birthYear) +  " years old."
+
+greeting = "Hello! My name is " + fullName + " and I am " + age + " years old."
 
 
 
